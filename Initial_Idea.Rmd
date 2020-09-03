@@ -1,0 +1,25 @@
+---
+title: "Initial Idea: Understanding and Influencing the Impact of Trunk Control On Hemiparetic Gait"
+author: "Mac Prible"
+output: word_document
+---
+
+Stroke is a leading cause of disability in the United States, with diminished gait speed presenting one of the most significant contributors to disabilty. Though a variety of rehabilitation approaches demonstrate an ability to improve gait speed post-stroke, the magnitude of the improvements are typically not sufficient to create a meaningful change in functional ability.
+
+Our current understanding of the impairments causing reduced speed in hemiparetic gait typically focuses on peripheral weakness and spasticity in the ankle, knee and hip. Despite this limb focus, it has also been established that impairments also present more proximally in the trunk. These include bilateral and multidirectional weakness, as well as spasticity, altered patterns of muscle recruitment, delayed reaction times, and altered anticipatory postural adjustments. Clinical measures of trunk function soon after stroke have been predictive of long-term gait outcomes.
+
+Typical patterns of trunk movement during healthy walking have been identified and associated with speed modulation. Individuals with hemiparesis demonstrate trunk kinematics that deviate from these norms. A recent review concluded that more normal trunk movements are associated with faster gait speeds. It is currently not clear to what extent these kinematic deviations are compensatory for peripheral impairments, and to what extent they represent direct trunk impairments that impact force production.
+
+All of the above suggests a critical gap in our understanding of disability following stroke and how to effectively rehabilitate people impacted by stroke to more fully functional daily life.
+
+In order to bridge this gap, we aim to pursue several paths that refine our understanding of the trunk during gait (both healthy and hemiparetic), as well as potential rehabilitation approaches to improve walking speed post-stroke. We will focus on modulation of peak paretic propulsive force as this has correlates well with walking speed and also provides a measure that is not confounded by compensatory non-paretic movement patterns.
+
+Aim 1: Relate altered trunk postures to altered force production in a healthy population
+
+By providing real-time visual feedback of trunk postion to healthy subjects, they can be cued to adopt trunk postures that are more typical of those identified in individuals with hemiparesis. Changes in force production and peripheral gait kinematics can then be measured in order to test the hypothesis that trunk movement impairments can result in impaired force production even in the absence of limb strength and coordination impairments.
+
+Aim 2: Relate specifically identified trunk impairments to altered trunk kinematics during walking in individuals with hemiparesis
+
+By assessing trunk function, strength, and range of motion in addition to full-body motion capture , we can test the hypothesis that specific trunk impairments are related to observable trunk abnormalities during gait. Additionally, by using a full-body marker-set that is intended to capture trunk movement in individuals with hemiparesis with a high degree of precision, a valuable dataset can be acquired. This can be used to validate a mathematical model of paretic force production incorporating the trunk.
+
+Aim 3: Improve paretic force production in individuals with hemiparesis via visual feedback of trunk posture. Based on previously collected data, it appears that trunk symmetry is not necessary in order to achieve symmetrical propulsive force production. However, not all asymmetrical patterns are associated with symmetrical force production. In addition to trials that guide subjects toward more symmetrical trunk movement while walking, various asymmetrical trunk posture targets will be assessed in order to determine if these may provide a more accessible path toward improved paretic force production.
