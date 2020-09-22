@@ -1,38 +1,67 @@
 ---
 title: "Specific Aims"
 author: "Mac Prible"
+output: word_document
 ---
 
-## Significance
+## Intro Paragraph
 
-Notable gap:
+Opening Sentence: Though a variety of rehabilitation approaches can increase gait speed in individuals with chronic hemiparesis post-stroke, the magnitude of the improvement is typically not sufficient to create a meaningful improvement in quality of life.
 
-Changes to field:
+Current Knowledge:
+    - Our current understanding of the causes of reduced gait speed after stroke emphasizes limb weakness and spasticity in the ankle, knee, and hip. 
+    - Despite this focus, it has also been established that impairments present proximally in the trunk. 
+      - These include bilateral and multidirectional weakness, as well as spasticity, altered patterns of muscle recruitment, delayed reaction times, and altered anticipatory postural adjustments.
+    - Clinical measures of trunk function soon after stroke are predictive of long-term gait outcomes.
+    - In healthy gait, trunk movements are known to become more coordinated as speed increases, particularly into walking speeds required for unlimited community ambulation.
+  
+Gap in Knowledge/Lack of Something: 
+    - A recent review of hemiparetic gait and the trunk concluded that 
+      - more normal trunk movements are associated with faster gait speeds.
+      - It is currently not clear to what extent kinematic deviations from normal patterns are compensatory for peripheral impairments, and to what extent they directly reflect trunk impairments.
+      - It is also not known how these trunk deviations may impact force production.
 
+Statement of Need and Consequence of Not Meeting that Need:
+    -  reduced gait speed is one of the most significant limitations following stroke, which contributes to stroke being a leading cause of disability in the US.
+    -  Our current frameworks for treatment have not yielded reliably meaningful improvement in patients post-stroke.
+    -  Impaired walking function also presents the risk of diminished cardiovascular health in a population of patients who have already suffered an adverse cardiovascular event.
+    -  By understanding the role of the trunk during hemiparetic gait, we can devise novel interventions to augment current rehabilitation techniques and transition patients back to full community participation and improved health.
 
-Improvement in both health and science:
+## What, Why, Who Paragraph
 
-opportunities
+Long-term goal: 
+    - Improve the walking ability of individuals post stroke so that they can reduce their level of disability and improve their cardiovascular health.
+    - 
+Overall Objective: 
+    - Clarify the biomechanical role of the trunk during gait
+    - determine if trunk impairments following stroke are associated with gait impairmentsand 
+    - assess the impact of interventions targeting identified impairments on gait function
+    - 
+Central Hypothesis and How Formulated: 
+    - Intrinsic impairments in trunk posture and coordination following stroke can  limit the ability to increase walking speed, particularly to speeds associated with full community participation.
 
-gaps
+Rationale: Trunk coordination demands in healthy gait increase at faster speeds, and impairments in trunk coordination present following stroke which may become limiting factors to achieving more functional walking speeds.
 
-roadblocks
+## Specific Aims Paragraph
 
-research underway
+    Aim 1: Expand previous biomechanical models based on lower limb parameters to include trunk posture. 
+    Hyp 1:
+    - Trunk posture effects the transmission of ground reaction forces through the musculoskeletal frame influencing propulsive force generation. 
+    
+    Aim 2: Assess the force production impact of various trunk postures during gait in healthy subjects at slow and fast speeds
+    Hyp 2: 
+    - Fast gait speeds require greater coordination between the thorax and pelvis than slow speeds
+    - postural abnormalities become more influential on force production at faster speeds
+    
+    Aim 3: Normalize trunk movement during gait by targeting specific trunk impairments in individuals with chronic hemiparesis
+    Hyp 3: 
+    - Kinematic abnormalities of trunk movement during gait partially reflect intrinsic trunk impairments and are not strictly compensatory in nature.
+     
+## "Payoff" Paragraph
 
-## Innovation
-
-What is new or novel?
-
-How does this refine existing concepts and methods
-
-
-## Approach
-
-Recognition of potential problems
-
-Highlight importance of potential findings
-
-Risk Mitigation
-
-What are the hypotheses? Even with a negative result how does this advance the field?
+Expected Outcomes:
+    - a mathematical model of propulsive force generation that includes the trunk can clarify priorities for intervention.
+    - clarity regarding the importance of the trunk at various gait speeds can allow for identification of patients most likely to benefit from trunk-specific interventions.
+    - Relating identified trunk impairments to observed gait abnormalities can assist clinicians with devising interventions appropriate for a given patient.
+Generality Regarding Positive Impact:
+    - By accounting for the impact of impaired trunk control in individuals with chronic hemiparesis, more effective rehabilitation approaches can be devised that reduce disability to a greater extent that our currently limited toolset.
