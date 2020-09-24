@@ -1,0 +1,26 @@
+---
+title: "Significance"
+author: "Mac Prible"
+date: "9/24/2020"
+output: html_document
+---
+
+# Significance
+
+Overall: achieving community ambulation speeds in individuals with chronic hemiparesis is a difficult rehabilitation challenge with low success rate
+
+1 Aim: we do not currently have a biomechanical model of propulsive force production that includes the trunk, despite known trunk impairments after stroke, abnormal trunk movement during hemiparetic gait, and propulsive force impairments limiting improvement in gait speed 
+
+Contribution: we will be able to devise novel interventions and prioritize treatment strategies where intrinsic trunk impairments are a primary limitation
+
+
+
+# Innovation
+
+Status Quo: Treatment frameworks and biomechanical models emphasize emphasize limb impairments
+
+Different 1: The propulsive force impact of variations in trunk usage at various speeds will be identified.
+
+New Horizons: Improve the prognosis for people with long-term hemiparesis to achieve full community participation
+
+New Horizon2?: Provide a path to help fast by "abnormal" walkers to normalize their gait patterns
