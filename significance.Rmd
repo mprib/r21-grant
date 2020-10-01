@@ -3,9 +3,50 @@ title: "Significance"
 author: "Mac Prible"
 date: "9/24/2020"
 output: html_document
+bibliography: literature.bib
 ---
 
 # Significance
+
+## Importance of the Problem to Be Addressed
+
+More than 1 million adults in the United States are currently disabled due to stroke [@Theis.2019] and 40% of their caregivers experience depressive symptoms [@Loh.2017]. Gait speed impairments are strongly associated with functional independence and quality of life [@Schmid.2007]/ Though a variety of interventions are able to improve walking speed in individuals with hemiparesis after stroke, the magnitude of the improvement is regularly insufficient to transition into a higher functional category [@Dickstein.2008]. It is particularly difficult to transition from being a limited community ambulator to an unlimited community ambulator, which involves increasing comfortable walking speed beyond 0.8 m/s [@Schmid.2007]. 
+
+Suggestively, a walking speed of approximately 0.8 m/s has also been identified as a transitional speed beyond which trunk coordination becomes an integral component of gait.  [@Bruijn.2008; @Wagenaar.1992]. Research in healthy subjects at unimpaired walking speeds suggests that larger amplitudes of frontal and transverse plane movement are associated with faster walking [@Thummerer.2012]. In contrast, individuals post-stroke demonstrate more in-phase coupling of the thorax and pelvis relative to healthy controls who walk at a faster self-selected pace [@Hacmon.2012]. 
+
+
+## Rigor of the Prior Research Supporting the Aims
+
+*Aim 1: Develop a mathematical model of propulsion incorporating the trunk* Gait speed increases post-stroke are driven by increases in peak propulsive force, particularly on the paretic side [@Hsiao.2016c]. Descriptions of the mechanism used to generate propulsive force have emphasized the role of limb components such as the plantar flexors  [@Neptune.2001] and the trailing limb angle [@Hsiao.2015]. The lack of a trunk-inclusive model of force production limits our ability to understand the relative significance of limb impairments vs. trunk impairments. This undermines our ability to prioritize treatments in a clinical setting and devise novel interventions to address the specific obstacles to faster walking.
+
+*Aim 2: Assess the force production impact of trunk postures during gait in healthy subjects at slow and fast speeds* Trunk use during gait has primarily been studied in a healthy population [@Sartor.1999; @Thummerer.2012]. A confounding factor in understanding the impact of trunk abnormalities during gait in individuals with hemiparesis is that it is not clear to what extent these abnormalities are compensatory for limb weakness and to what extent they reflect intrinsic trunk deficits [@vanCriekinge.2017]. A recent investigation suggested that though increased limb impairment is associated with increased trunk movement abnormality, intrinsic trunk deficits may also be contributing factors [@vanCriekinge.2020]. This study examined kinematics of movement but did not associate the trunk abnormalities with propulsive force production which is a critical component of gait speed. By imposing abnormal trunk movement on a subjects without hemiparesis, we will be able to assess the singular impact of the trunk abnormalities on the force production that drives gait speed.  
+
+*Aim 3: Assess the capacity of individuals with hemiparesis to normalize their trunk movement while walking*: Soon after stroke, clinical tests of trunk impairment correlate more strongly with Functional Independence Measure scores than tests of upper-extremity or lower-extremity impairments [@Likhi.2013]. Beyond concurrent correlations with function, clinical tests of trunk impairments soon after stroke have also been shown to be predictive of long-term functional outcomes [@Duarte.2002; @Hsieh.2002; @Verheyden.2007]. While unilateral limb weakness is a defining characteristic of hemiparesis, the trunk is also be effected by stroke. These effects include trunk weakness bilaterally and in all three planes [@Bohannon.1992; @Karatas.2004; @Tanaka.1997], as well as impairments in anticipatory postural adjustments and muscle recruitment times [@Dickstein.2004; @Dickstein.2004b]. It remains unclear how specific trunk impairments relate to observed trunk movement abnormalities. In this aim, we will target these specific trunk impairments in order to assess the impact on propulsive force production and gait speed.
+
+
+## Significance of the Expected Research Contribution
+
+Upon successful completion of the proposed research, we expect our contribution to be a framework for prioritizing targeted interventions that improve the success rate of rehabiliation in individuals with chronic hemiparesis. Specifically, this will address the needs of individuals who are currently limited from full participation in their community  and have difficulty making meaningful progress in current treatment frameworks [@Dickstein.2008; @Schmid.2007]. This improved walking can reduce the likelihood of recurrent cardiovascular events in an already compromised population [@Virani.2020] as well as reduce the burden on caregivers [@Loh.2017].
+
+
+# Innovation
+
+
+## Part 1: Status Quo
+
+The status quo as it pertains to rehabilitation in individuals with chronic hemiparesis is primarily lower extremity strengthening combined with task-specific training in the form of treadmill and overground walking to the patient's tolerance [@Hornby.2020]. While often partially successful at increasing gait speed, these methods often fail to progress indivudals to higher levels of function, particularly to the status of unlimited community ambulators 
+
+## Part 2: Innovation
+
+The proposed research is innovative, in our opinion, because it represents a substantive departure from the status quo by identifying a subgroup of individuals whose primary obstacle to progress (improved trunk control), has been unaddressed by the current frameworks emphasizing limb impairments. Additionally, 
+
+## Part 3: 
+
+
+
+New horizons (contribution to knowledge, future development).
+
+# Notes from class
 
 Overall: achieving community ambulation speeds in individuals with chronic hemiparesis is a difficult rehabilitation challenge with low success rate
 
